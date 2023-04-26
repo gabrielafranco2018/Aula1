@@ -10,7 +10,7 @@ echo $primeiro_nome;
 echo '<br />';
 $ultimo_nome = "Lourdes";
 echo $ultimo_nome;
-$time = array('Maria', 'José','Ana');
+///$time = array('Maria', 'José','Ana');
 echo $time[2];
 echo '<br />';
 print_r($time);
