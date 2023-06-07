@@ -79,3 +79,7 @@ if($hora<12){
 ///phpinfo();
 ?>
 Olá! <?php echo $mensagem; ?>
+
+<input type="hidden" name="">
+
+
